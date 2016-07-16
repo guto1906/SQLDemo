@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/guto/6076-CB52/Adroid_Studio/SQLDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="285a3a1586f854dbb45c48af3d5952a63539f5af">
+        <dex dex="/media/guto/6076-CB52/Adroid_Studio/SQLDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f781060706b69490ed7b3b6d379f90063fc7268c.jar" />
+    </item>
+
+</items>
